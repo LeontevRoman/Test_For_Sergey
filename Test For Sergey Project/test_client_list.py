@@ -40,4 +40,3 @@ def test_delete(conn):
     conn.commit()
 
 
-
